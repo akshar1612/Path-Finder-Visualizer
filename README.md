@@ -1,4 +1,4 @@
-# Pathfinding Visualizer
+# Pathfinding Visualizer - LIVE @ https://akshar1612.github.io/Path-Finder-Visualizer/
 
 An interactive pathfinding algorithm visualizer built with Next.js, TypeScript, and Tailwind CSS. Place a start and end node, draw walls, choose an algorithm, and watch it search in real time.
 
